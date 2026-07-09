@@ -1,0 +1,10 @@
+{
+  "name": "product-inventory-demo",
+  "version": "1.0.0",
+  "description": "JavaScript Arrays, Objects, and Debugging Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node inspect index.js"
+  }
+}
